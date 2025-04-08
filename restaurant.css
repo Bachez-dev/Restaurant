@@ -65,7 +65,7 @@ nav a:active{
   position: relative;
   opacity: 0;
   transform: translateX(-100%);
-  animation: slideIn 1s ease-out forwards;
+  animation: slideIn 4s ease-out forwards;
   width: 100%;
   margin-top: 15vh;
   gap: 100px;
